@@ -115,6 +115,16 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 📧 𝐄𝐦𝐚𝐢𝐥: m.h.mohammadimir2017@gmail.com
 
 ---
+
+## TODO
+- [x] Chapter (1): IoT (Internet of Things) Tutorial
+- [x] Chapter (2): Architecture & Domains
+- [ ] Chapter (3): IoT Devices
+- [ ] Chapter (4): IoT Platforms
+- [ ] Chapter (5): Communication
+- [ ] Chapter (6): IoT + Arduino
+
+---
 ---
 
 👇Click on the link below to see the E-Book Demo!👇😉
