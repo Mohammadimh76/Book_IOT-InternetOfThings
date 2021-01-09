@@ -117,12 +117,12 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 ---
 
 ## TODO
-- [x] Chapter (1): IoT (Internet of Things) Tutorial
-- [x] Chapter (2): Architecture & Domains
-- [x] Chapter (3): IoT Devices
-- [x] Chapter (4): IoT Platforms
-- [ ] Chapter (5): Communication
-- [ ] Chapter (6): IoT + Arduino
+- [x] <b>Chapter (1):</b> IoT (Internet of Things) Tutorial
+- [x] <b>Chapter (2):</b> Architecture & Domains
+- [x] <b>Chapter (3):</b> IoT Devices
+- [x] <b>Chapter (4):</b> IoT Platforms
+- [ ] <b>Chapter (5):</b> Communication
+- [ ] <b>Chapter (6):</b> IoT + Arduino
 
 ---
 ---
