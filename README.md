@@ -59,17 +59,40 @@ This book consists of six chapters in which an attempt has been made to explain 
 
 
 ## Chapter (1) - IoT (Internet of Things) Tutorial
+IoT stands for Internet of Things, which means accessing and controlling equipment and devices that can be used on a daily basis using the Internet.<br>
+This book covers all IoT topics including introductions, features, advantages and disadvantages, ecosystems, decision frameworks, architecture and domains, biometrics, security cameras and door unlock systems, devices, and more.
 
 ## Chapter (2) - Architecture & Domains
+This chapter discusses the IoT architecture in particular.
 
 ## Chapter (3) - IoT Devices
+What are smart objects in the IoT?
+The IoT concept is used for active physical, digital, network objects that can be somewhat automated, reset, and control local resources locally. Smart objects need energy, data storage, and more.<br>
+A smart body is an object that enhances interaction with other smart objects as well as with people. The IoT world is a network of heterogeneous interconnected objects (such as smart devices, smart smart objects, sensors, actuators, RFID, embedded computers, etc.) uniquely addressable and based on protocols. Standard communication.<br>
+In everyday life, people have a lot of object objects with the Internet or wireless or wired connection. like the:
+
+- Smart phones
+- Tablet
+- Computer TV
+
+These objects can be interconnected and facilitate our daily lives (smart home, smart cities) regardless of location, location, access to a sensor, size, scenario or hazard.<br>
+Smart objects are widely used to transform the physical environment around us into the digital world using IoT technology.<br>
+A smart object carries blocks of application logic that make sense for their local location and interact with human users. An intelligent smart object senses, records, interprets, communicates with each other, and exchanges information with people.<br>
+The work of the smart object is focused on technical aspects (such as software infrastructure, hardware operating systems, etc.) and application scenarios. Application areas range from supply chain management and organizational programs (home and hospital) to healthcare and industrial workplace support. As for the human interface aspects of object-smart technologies, the environment has just received attention.<br>
 
 ## Chapter (4) - IoT Platforms
+Like the IoT, all IoT devices are connected to other IoT devices and applications connected to transmit and receive information using protocols. There is a gap between the IoT device and the IoT application. The IoT Platform fills the gap between devices (sensors) and applications (networks). Therefore, it can be said that an IoT platform is an integrated service that bridges the gap between the device and the IoT application and allows you to perform the physical object object online.<br>
+
+<p align="center">
+  <img width="602" height="373" src="https://raw.githubusercontent.com/Mohammadimh76/Book_IOT-InternetOfThings/main/image.png">
+</p>
 
 ## Chapter (5) - Communication
+IoT Data Link Communication Protocol<br>
+The IoT Data Link communication protocol provides service to the Network Layer. There are various protocols and standard technologies specified by the different organization for data link protocols.<br>
 
 ## Chapter (6) - IoT + Arduino
-
+Examples of IoT projects
 
 
 ---
