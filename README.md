@@ -19,7 +19,7 @@ This book consists of six chapters in which an attempt has been made to explain 
 | <b>Publisher</b>    |   [Arna](http://arnapub.com/)  |
 | <b>First Printing Edition</b>    |   Mar,2021  |
 | <b>Print Length</b>    |  194   |
-| <b>ISBN</b>    |  978-622-2910-14-3‬   |
+| <b>[ISBN](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7545447&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)</b>    |  [978-622-2910-14-3](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7545447&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)‬   |
 
 ---
 
