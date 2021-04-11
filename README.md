@@ -141,7 +141,7 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 
 👇Click on the link below to see the E-Book Demo!👇😉
 
-## (E-Book Demo): 🔺(Coming Soon)🔺
+## [(E-Book Demo)](https://github.com/Mohammadimh76/Book_IOT-InternetOfThings/blob/main/E-Book_Demo/E-Book_Demo.pdf)
 
 ---
 
