@@ -1,4 +1,4 @@
-# "IOT (Internet Of Things)" (🔸Release March,2021)
+# IoT (Internet of Things)
 
 ---
 
@@ -12,14 +12,14 @@ This book consists of six chapters in which an attempt has been made to explain 
 | Front Book Cover  | Back Book Cover  |
 |-----------|--------------------|
 |<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/master/Book_6.jpeg"></p>|<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Mohammadimh76.github.io/master/Book_6_b.jpeg"></p>|
-|  <b>Book Name</b>   |   IOT (Internet Of Things)  |
+|  <b>Book Name</b>   |   IoT (Internet of Things)  |
 | <b>Authors</b>    | S.Y.Moradi, M.H.Mohammadi|
 | <b>language</b>    |  Persian   |
 | <b>Printed in the</b>    |  IRAN   |
-| <b>Publisher</b>    |   ...  |
-| <b>First Printing Edition</b>    |   ...  |
-| <b>Print Length</b>    |  ...   |
-| <b>ISBN</b>    |  978-600-...-...-.   |
+| <b>Publisher</b>    |   [Arna Publication](http://arnapub.com/)  |
+| <b>First Printing Edition</b>    |   Mar,2021  |
+| <b>Print Length</b>    |  194   |
+| <b>ISBN</b>    |  978-622-2910-14-3‬   |
 
 ---
 
@@ -139,20 +139,17 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 
 ---
 
-## TODO
-- [x] <b>Chapter (1):</b> IoT (Internet of Things) Tutorial
-- [x] <b>Chapter (2):</b> Architecture & Domains
-- [x] <b>Chapter (3):</b> IoT Devices
-- [x] <b>Chapter (4):</b> IoT Platforms
-- [x] <b>Chapter (5):</b> Communication
-- [ ] <b>Chapter (6):</b> IoT + Arduino
-
----
----
-
 👇Click on the link below to see the E-Book Demo!👇😉
 
 ## (E-Book Demo): 🔺(Coming Soon)🔺
+
+---
+
+## 🛒Buy
+
+| Amazon (Kindle Edition- 💥Coming Soon) | Taaghche  |
+|-----------|--------------------|
+| <p align="center"><img width="250" height="75" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Amazon_logo.svg.png"></p> | [<p align="center"><img width="250" height="86" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Taaghche_logo.jpg"></p>](https://taaghche.com/book/94871/%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D8%B4%DB%8C%D8%A7%D8%A1) |
 
 
 
