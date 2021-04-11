@@ -2,7 +2,7 @@
 
 ---
 
-## Introduction:
+## 〽️Introduction:
 As the world of technology evolves, new areas are emerging, culminating in the digital age. The Internet of Things is emerging as one of the main trends shaping the development of technology in the field of information and communication technology, and the change in the use of the Internet to communicate between end-users to the Internet used to communicate between physical objects to a particular service Requires a rethinking of some traditional approaches to network management, computing, and service delivery.<br>
 The book Basics of IoT, written by Seyed Yahya Moradi and Mohammad Hossein Mohammadi, intends to provide a comprehensive introduction to all aspects of IoT technology to guide readers to continue their education and work path.<br>
 This book consists of six chapters in which an attempt has been made to explain all the topics of this technology comprehensively and fluently for those who are interested, students and university professors.<br>
